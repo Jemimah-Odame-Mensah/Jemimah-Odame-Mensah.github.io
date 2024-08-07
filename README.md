@@ -13,7 +13,7 @@ My self-driven exploration of technology and digital security has ignited a pass
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security auditing                             | <a href="https://google.com">Detection Lab</a>|
-| creating an incident report using the NIST Cybersecurity Framework | <a href="https://google.com">Detection Lab</a>|
+| Creating an incident report using the NIST Cybersecurity Framework | <a href="https://google.com">Detection Lab</a>|
 | Using Linux commands to manage file permissions | Automation Lab|
 | Applying filters to SQL queries               | Automation Lab|
 | Vulnerability assessment                      | Automation Lab|
@@ -53,6 +53,6 @@ My self-driven exploration of technology and digital security has ignited a pass
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
