@@ -8,11 +8,11 @@ I am an aspiring cybersecurity professional passionate about safeguarding digita
 
 My self-driven exploration of technology and digital security has ignited a passion for cybersecurity, and I am now eager to transition into this field. I aim to join an organization as an entry-level Information Security Analyst or a Governance, Risk, and Compliance (GRC) Analyst, where I can apply my knowledge and continue to grow professionally while contributing to robust security solutions.
 
-## Skills
+## Skills and Associated Project
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security auditing                             | <a href="https://google.com">Detection Lab</a>|
+| Security auditing                             | <a href="https://github.com/Jemimah-Odame-Mensah/Auditing-Project">Auditing Project</a>|
 | Creating an incident report using the NIST Cybersecurity Framework | <a href="https://google.com">Detection Lab</a>|
 | Using Linux commands to manage file permissions | Automation Lab|
 | Applying filters to SQL queries               | Automation Lab|
