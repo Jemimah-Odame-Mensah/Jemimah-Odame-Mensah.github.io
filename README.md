@@ -13,7 +13,7 @@ My self-driven exploration of technology and digital security has ignited a pass
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security auditing                             | <a href="https://github.com/Jemimah-Odame-Mensah/Auditing-Project">Auditing Project</a>|
-| Creating an incident report using the NIST Cybersecurity Framework | <a href="https://google.com">Detection Lab</a>|
+| Creating an incident report using the NIST Cybersecurity Framework | <a href="https://github.com/Jemimah-Odame-Mensah/Incident-report">Incident Report</a>|
 | Using Linux commands to manage file permissions | Automation Lab|
 | Applying filters to SQL queries               | Automation Lab|
 | Vulnerability assessment                      | Automation Lab|
