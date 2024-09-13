@@ -15,8 +15,8 @@ My self-driven exploration of technology and digital security has ignited a pass
 | Security auditing                             | <a href="https://github.com/Jemimah-Odame-Mensah/Auditing-Project">Auditing Project</a>|
 | Creating an incident report using the NIST Cybersecurity Framework | <a href="https://github.com/Jemimah-Odame-Mensah/Incident-report">Incident Report</a>|
 | Using Linux commands to manage file permissions | <a href="https://github.com/Jemimah-Odame-Mensah/Using-Linux-commands">File permissions in Linux</a>|
-| Applying filters to SQL queries               | <a href="https://github.com/Jemimah-Odame-Mensah/SQL-queries">SQL Queries|
-| Vulnerability assessment                      | Automation Lab|
+| Applying filters to SQL queries               | <a href="https://github.com/Jemimah-Odame-Mensah/SQL-queries">SQL Queries</a>|
+| Vulnerability assessment                      | <a href="https://github.com/Jemimah-Odame-Mensah/Vulnerability-Assessment/blob/main/README.md">Vulnerability assessment</a>|
 | Documenting an incident with an incident handler's journal | SOC Automation Lab|
 | Designing a phishing awareness campaign       | Automation Lab|
  
