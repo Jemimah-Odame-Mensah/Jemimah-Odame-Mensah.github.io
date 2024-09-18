@@ -14,9 +14,9 @@ My self-driven exploration of technology and digital security has ignited a pass
 |-----------------------------------------------|----------------------------|
 | Security auditing                             | <a href="https://github.com/Jemimah-Odame-Mensah/Auditing-Project">Auditing Project</a>|
 | Creating an incident report using the NIST Cybersecurity Framework | <a href="https://github.com/Jemimah-Odame-Mensah/Incident-report">Incident Report</a>|
-| Using Linux commands to manage file permissions | <a href="https://github.com/Jemimah-Odame-Mensah/Using-Linux-commands">File permissions in Linux</a>|
+| Using Linux commands to manage file permissions | <a href="https://github.com/Jemimah-Odame-Mensah/Using-Linux-commands">File Permissions in Linux</a>|
 | Applying filters to SQL queries               | <a href="https://github.com/Jemimah-Odame-Mensah/SQL-queries">SQL Queries</a>|
-| Vulnerability assessment                      | <a href="https://github.com/Jemimah-Odame-Mensah/Vulnerability-Assessment/blob/main/README.md">Vulnerability assessment</a>|
+| Vulnerability assessment                      | <a href="https://github.com/Jemimah-Odame-Mensah/Vulnerability-Assessment/blob/main/README.md">Vulnerability Assessment</a>|
 | Documenting an incident with an incident handler's journal | SOC Automation Lab|
 | Designing a phishing awareness campaign       | Mastercard Cybersecurity Virtual Experience|
 | Development of Integrated Cyber Defense & Risk Management    | <a href="https://github.com/Jemimah-Odame-Mensah/PwC-Switzerland-Cybersecurity-Job-Simulation/blob/main/README.md">PwC Switzerland Cybersecurity Job Simulation</a>|
