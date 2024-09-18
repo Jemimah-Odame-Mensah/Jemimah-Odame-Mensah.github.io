@@ -19,7 +19,7 @@ My self-driven exploration of technology and digital security has ignited a pass
 | Vulnerability assessment                      | <a href="https://github.com/Jemimah-Odame-Mensah/Vulnerability-Assessment/blob/main/README.md">Vulnerability assessment</a>|
 | Documenting an incident with an incident handler's journal | SOC Automation Lab|
 | Designing a phishing awareness campaign       | Mastercard Cybersecurity Virtual Experience|
-| Integrating Cyber Defense & Risk Management    | PwC Switzerland Cybersecurity Job Simulation|
+| Development of Integrated Cyber Defense & Risk Management    | <a href="https://github.com/Jemimah-Odame-Mensah/PwC-Switzerland-Cybersecurity-Job-Simulation/blob/main/README.md">PwC Switzerland Cybersecurity Job Simulation</a>|
  
 ## Tools
 
