@@ -17,7 +17,7 @@ My self-driven exploration of technology and digital security has ignited a pass
 | Using Linux commands to manage file permissions | <a href="https://github.com/Jemimah-Odame-Mensah/Using-Linux-commands">File Permissions in Linux</a>|
 | Applying filters to SQL queries               | <a href="https://github.com/Jemimah-Odame-Mensah/SQL-queries">SQL Queries</a>|
 | Vulnerability assessment                      | <a href="https://github.com/Jemimah-Odame-Mensah/Vulnerability-Assessment/blob/main/README.md">Vulnerability Assessment</a>|
-| Documenting an incident with an incident handler's journal | SOC Automation Lab|
+| Documenting an incident with an incident handler's journal | <a href="https://github.com/Jemimah-Odame-Mensah/Incident-Handler-s-Journal/blob/main/README.md">Incident Hander's Journal</a>|
 | Designing a phishing awareness campaign       | <a href="https://github.com/Jemimah-Odame-Mensah/Mastercard-Cybersecurity-Virtual-Experience/blob/main/README.md">Mastercard Cybersecurity Virtual Experience</a>|
 | Development of Integrated Cyber Defense & Risk Management    | <a href="https://github.com/Jemimah-Odame-Mensah/PwC-Switzerland-Cybersecurity-Job-Simulation/blob/main/README.md">PwC Switzerland Cybersecurity Job Simulation</a>|
  
