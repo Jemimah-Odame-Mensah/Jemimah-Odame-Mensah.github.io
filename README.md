@@ -47,9 +47,7 @@ My self-driven exploration of technology and digital security has ignited a pass
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
 
 
 ## Certifications
