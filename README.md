@@ -12,7 +12,7 @@ My objective is to secure a postgraduate internship or entry-level GRC role in a
 
 ## Skills and Associated Project
 
-| Skill                                         | Associated Project         | Description              |
+| Skill                                         | Project         | Description              |
 |-----------------------------------------------|----------------------------|--------------------------|
 | Conducting Security Audits                            | <a href="https://github.com/Jemimah-Odame-Mensah/Auditing-Project">Auditing Project</a>| Performed security audits to identify system vulnerabilities, implementing strategies for mitigation.|
 |Incident Reporting                  | <a href="https://github.com/Jemimah-Odame-Mensah/Incident-report">Incident Report</a>| Created detailed incident reports to document security breaches, contributing to post-event analyses.|
