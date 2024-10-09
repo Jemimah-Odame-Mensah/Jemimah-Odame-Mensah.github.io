@@ -1,4 +1,4 @@
-# Hello, I'm Jemimah Odame Mensah
+# Hello, I'm JEMIMAH ODAME MENSAH
 <a href="https://www.linkedin.com/in/odmajemahm6772a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -10,7 +10,7 @@ Now focused on GRC, I’m eager to leverage my diverse skill set to help organiz
 
 My objective is to secure a postgraduate internship or entry-level GRC role in a forward-thinking company where I can continue developing my cybersecurity skills through hands-on experience. I aim to apply my strong attention to detail, critical thinking, and documentation skills to support effective risk management and compliance strategies. I’m eager to contribute meaningfully to an organization while expanding my knowledge and expertise in cybersecurity.
 
-## Skills and Associated Project
+## Skill and Associated Project
 
 | Skill                                         | Project         | Description              |
 |-----------------------------------------------|----------------------------|--------------------------|
@@ -23,7 +23,15 @@ My objective is to secure a postgraduate internship or entry-level GRC role in a
 | Phishing Awareness Campaign Design       | <a href="https://github.com/Jemimah-Odame-Mensah/Mastercard-Cybersecurity-Virtual-Experience/blob/main/README.md">Mastercard Cybersecurity Virtual Experience</a>| Developed and implemented a phishing awareness campaign, educating employees on potential threats.|
 | Integrated Cyber Defense Development   | <a href="https://github.com/Jemimah-Odame-Mensah/PwC-Switzerland-Cybersecurity-Job-Simulation/blob/main/README.md">PwC Switzerland Cybersecurity Job Simulation</a>| Led the development of a layered cybersecurity defense strategy for a simulated corporate environment.|
 
- 
+## GRC Frameworks & Standards Knowledge
+As I transition into the GRC space, I’ve developed a deep theoretical understanding of the following governance, risk, and compliance frameworks. Through coursework, simulations, and self-directed learning, I have gained a solid foundation in these frameworks, which I am eager to apply in a real-world setting. While I have not yet implemented or audited these frameworks in real-world scenarios, my studies and simulations have equipped me with valuable insights into how they are applied in various industries.
+- **ISO 27001**: Knowledge of ISMS principles, risk management in information security, and security controls.
+- **PCI DSS**: Familiarity with the standards for protecting cardholder data in payment systems.
+- **GDPR**: Understanding of data protection regulations, data subject rights, and compliance requirements.
+- **NIST Cybersecurity Framework**: Insight into cybersecurity best practices, focusing on risk management and response.
+- **COBIT**: Knowledge of IT governance and its role in aligning IT with business objectives.
+- **ISO 31000**: Understanding of the risk management framework, with an emphasis on identifying, assessing, and mitigating risks.
+
 ## Tools
 
 ### Network Analysis
