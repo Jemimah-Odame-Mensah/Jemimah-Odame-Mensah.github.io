@@ -2,13 +2,13 @@
 <a href="https://www.linkedin.com/in/odmajemahm6772a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a dedicated Governance, Risk, and Compliance (GRC) Apprentice with a passion for cybersecurity and a proven ability to adapt and thrive in diverse environments. With a background in chemistry and professional experiences spanning quality control, teaching, and freelancing, I’ve developed a strong foundation in attention to detail, critical thinking, and effective communication skills that are invaluable in Governance, Risk, and Compliance.
+I am a dedicated Governance, Risk, and Compliance (GRC) Apprentice with a passion for cybersecurity and a proven ability to adapt and thrive in diverse environments. With a background in chemistry and professional experiences spanning quality control, teaching, and entrepreneur, I’ve developed a strong foundation in attention to detail, critical thinking, and effective communication skills that are invaluable in Governance, Risk, and Compliance.
 
 Now focused on GRC, I’m eager to leverage my diverse skill set to help organizations manage risks and stay compliant in an ever-evolving digital landscape. I bring a proactive approach, a love for learning, and a commitment to contributing to the security and resilience of any team I join.
 
 ## Objective
 
-My objective is to secure a postgraduate internship or entry-level GRC role in a forward-thinking company where I can continue developing my cybersecurity skills through hands-on experience. I aim to apply my strong attention to detail, critical thinking, and documentation skills to support effective risk management and compliance strategies. I’m eager to contribute meaningfully to an organization while expanding my knowledge and expertise in cybersecurity.
+My objective is to secure a postgraduate internship or an entry-level GRC role in a forward-thinking company where I can continue developing my cybersecurity skills through hands-on experience. I aim to apply my strong attention to detail, critical thinking, and documentation skills to support effective risk management and compliance strategies. I’m eager to contribute meaningfully to an organization while expanding my knowledge and expertise in cybersecurity.
 
 ## Skill and Associated Project
 
